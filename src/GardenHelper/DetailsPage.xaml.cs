@@ -15,7 +15,7 @@ namespace GardenHelper
 	{
 		public DetailsPage()
 		{
-			InitializeComponent ();
+			//InitializeComponent ();
         }
 	}
 }

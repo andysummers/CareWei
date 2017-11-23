@@ -136,7 +136,6 @@
     <PackageReference Include="Xam.Plugin.Media">
       <Version>3.0.1</Version>
     </PackageReference>
-    <PackageReference Include="Xamarin.Forms" Version="2.5.0.77107" />
     <PackageReference Include="Xamarin.TestCloud.Agent">
       <Version>0.21.3</Version>
     </PackageReference>

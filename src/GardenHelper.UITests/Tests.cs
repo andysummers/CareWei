@@ -26,7 +26,7 @@ namespace GardenHelper.UITests
         }
 
         [Test]
-        [Ignore]
+        //[Ignore]
         public void Repl()
         {
             app.Repl();

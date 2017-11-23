@@ -11,7 +11,7 @@ namespace GardenHelper
     {
         public App ()
         {
-            InitializeComponent();
+            //InitializeComponent();
 
             // Register the default services + service locator.
             var ds = XamUInfrastructure.Init();
